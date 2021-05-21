@@ -7,7 +7,9 @@ This contains a roadmap to learn basic web development
 │   ├── GIT + Github
 │   ├── HTML + CSS
 │   ├── Javascript
-│   ├── NodeJS + Express + MongoD
+│   ├── NodeJS + Express + MongoDB
+│   ├── Frontend Framework - Angular/React/Vue etc
+
 ```
 
 ### Chapter#1
@@ -52,4 +54,18 @@ This contains a roadmap to learn basic web development
 **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno):** https://www.udemy.com/course/nodejs-the-complete-guide/ <br/>
 **The Complete Node.js Developer Course (3rd Edition):** https://www.udemy.com/course/the-complete-nodejs-developer-course-2/ <br/>
 
+***
+
+### Chapter#5
+***Frontend Framework - Angular/React/Vue etc*** <br/><br/>
+**Tutorial Links:** <br/>
+
+**Angular:** <br/>
+**Master Angular 7 (formerly Angular 2): The Complete Course:** https://www.udemy.com/course/the-complete-guide-to-angular-2/ <br/>
+**Angular 11 Masterclass with TypeScript, Firebase, & Material:** https://www.udemy.com/course/angular-all-you-need-to-know/ <br/>
+
+**React:** <br/>
+**React - The Complete Guide (incl Hooks, React Router, Redux):** https://www.udemy.com/course/react-the-complete-guide-incl-redux/ <br/>
+**React JS Crash Course 2021:** https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=334s <br/>
+**React Cheat Sheet for Beginners:** https://lo-victoria.com/react-cheat-sheet-for-beginners <br/>
 ***
