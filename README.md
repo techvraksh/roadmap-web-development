@@ -61,7 +61,7 @@ This contains a roadmap to learn basic web development
 **Tutorial Links:** <br/>
 
 **Angular:** <br/>
-**Master Angular 7 (formerly Angular 2): The Complete Course:** https://www.udemy.com/course/the-complete-guide-to-angular-2/ <br/>
+**Angular - The Complete Guide:** https://www.udemy.com/course/the-complete-guide-to-angular-2/ <br/>
 **Angular 11 Masterclass with TypeScript, Firebase, & Material:** https://www.udemy.com/course/angular-all-you-need-to-know/ <br/>
 
 **React:** <br/>
